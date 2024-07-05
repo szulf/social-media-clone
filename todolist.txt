@@ -1,0 +1,45 @@
+Frontend in React
+    With NextJS
+    TailwindCSS
+    Some component library or Manual Components(More prone to that)
+
+
+Backend
+    Echo? framework for http
+    Goth for auth
+    Db hosted on docker
+    Goqu as sql builder
+    Goose for db migrations
+    Godotenv
+    Maybe write tests for the first time(TDD maybe)
+    Probably a monolith, because it would be easier tbh(
+        Login system(Goth might just take the care of everything here, still need to process image upload tho)
+        Message system
+        Posts system(Dont know if message and image and video posts are the same)
+        Maybe some dev/admin role
+    )
+
+
+Three containers for docker(Front, Back, DB)
+    But firstly maybe start without docker
+    And later on dockerize everything
+    But database on docker obviously
+
+
+Plan shit out
+Seems pretty planned out
+Plus I got some frontend design in mind
+Still need to plan out some git things
+
+Read https://docs.github.com/en/actions/deployment/about-deployments
+Its mainly about setting up Github Actions
+And I dont think Ill use CI/CD here
+Because I dont see much sense in it for a single dev
+
+
+Should be able to start writing code tomorrow
+YUPEEEE
+
+Start with frontend I think
+Seems easier
+The same way I did with `chat-app`
