@@ -1,0 +1,7 @@
+todolist.txt
+.vscode
+
+front/node_modules
+front/dist
+front/dist-ssr
+front/*.local

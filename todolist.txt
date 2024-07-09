@@ -1,5 +1,5 @@
 Frontend in React
-    With NextJS
+    With Vite
     TailwindCSS
     Some component library or Manual Components(More prone to that)
 
